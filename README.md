@@ -1,5 +1,5 @@
 # Algorithm Solutions
-### This is a repository created in order to keep track of Algorithm Questions I work on (Questions sourced form @javinpaul) Below lists all the questions I've worked on, all solutions can be found in the corresponding folders
+### This is a repository created in order to keep track of Algorithm Questions I work on (Questions source @javinpaul) Below lists all the questions I've worked on, all solutions can be found in the corresponding folders
 
 ### Completed Problems
 #### Array Questions
