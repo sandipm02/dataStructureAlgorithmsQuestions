@@ -1,6 +1,4 @@
-
-
-public class MissingNum {
+class MissingNum {
     public static void main(String[] args) {
         Setup set = new Setup();
         solution(set.getGeneratedArray());
