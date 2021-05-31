@@ -1,3 +1,8 @@
+/**
+ * Question: 
+ * How do you find the missing number in a given integer array of 1 to 100?
+ */
+
 class MissingNum {
     public static void main(String[] args) {
         Setup set = new Setup();
@@ -5,6 +10,15 @@ class MissingNum {
 
     }
 
+/**
+ * Answer:
+ * The solution I employed for this question was to use a while statement
+ * to increment a variable i, until it has a value of 100. If at any point,
+ * the corresponding position (also i) in the array is incorrect or missing, the 
+ * program will state the number that is missing and terminate. 
+ * 
+ * @param temp An Array that is missing a random number n.
+ */
     public static void solution(int[] temp) {
         int i = 0;
         while(i!=101) {
@@ -17,6 +31,9 @@ class MissingNum {
     }
 }
 
+/**
+ * This class is used to setup the problem
+ */
 class Setup {
     private int[] generatedArray;
 
