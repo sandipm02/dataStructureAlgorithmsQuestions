@@ -3,7 +3,9 @@
 
 ### Completed Problems
 #### Array Questions
-None
+How do you find the missing number in a given integer array of 1 to 100?<br>
+How do you find the duplicate number on a given integer array?<br>
+
 #### Linked List Questions
 None
 #### String Questions

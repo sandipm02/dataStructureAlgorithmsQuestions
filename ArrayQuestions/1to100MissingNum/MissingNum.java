@@ -5,7 +5,7 @@
 
 class MissingNum {
     public static void main(String[] args) {
-        Setup set = new Setup();
+        SetupFor1to100 set = new SetupFor1to100();
         solution(set.getGeneratedArray());
 
     }
@@ -34,10 +34,10 @@ class MissingNum {
 /**
  * This class is used to setup the problem
  */
-class Setup {
+class SetupFor1to100 {
     private int[] generatedArray;
 
-    public Setup() {
+    public SetupFor1to100() {
         this.generatedArray = removeRandomIndex(create1to100Array(), generateRandomNum());
     }
 
