@@ -11,8 +11,9 @@ class HighestLowestNum {
 
 /**
  * Answer:
- * #### insert explanation
- * 
+ * In order to solve this solution, I use a simple Bubble Sorting Array. This algo
+ * will order the array from lowest to highest, resulting in the finding the required numbers
+ * in the [0] position and [arrayLength-1] position. 
  */
     public static void solution(int[] array) {
         print(array);

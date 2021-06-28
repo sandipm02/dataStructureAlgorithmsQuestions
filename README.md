@@ -6,6 +6,7 @@
 How do you find the missing number in a given integer array of 1 to 100?<br>
 How do you find the duplicate number on a given integer array?<br>
 How do you find the largest and smallest number in an unsorted integer array?<br>
+How do you find all pairs of an integer array whose sum is equal to a given number?<br>
 
 #### Linked List Questions
 None
@@ -18,10 +19,6 @@ None
 
 ### Problems Left
 #### Array Questions
-How do you find the missing number in a given integer array of 1 to 100?<br>
-How do you find the duplicate number on a given integer array?<br>
-How do you find the largest and smallest number in an unsorted integer array?<br>
-How do you find all pairs of an integer array whose sum is equal to a given number?<br>
 How do you find duplicate numbers in an array if it contains multiple duplicates?<br>
 How are duplicates removed from a given array in Java?<br>
 How is an integer array sorted in place using the quicksort algorithm?<br>
